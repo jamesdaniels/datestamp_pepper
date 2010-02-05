@@ -1,0 +1,25 @@
+================================================================================
+PEPPER MAKES MINT BETTER
+
+http://www.haveamint.com/
+
+This pepper simply creates a date field on each visit. It doesn't have a view,
+it's simply for analysis of the visits table by other tools.
+
+Installing Pepper
+--------------------------------------------------------------------------------
+
+1. Upload the /datestamp/ directory and its contents to 
+/mint/pepper/jamesdaniels/. If the directory /jamesdaniels/ doesn't exist,
+create it.
+
+2. Login to your Mint installation and in the Preferences click "Install" under
+Pepper.
+
+3. Click the DateStamp Pepper "Install" button. Click "Okay."
+
+
+================================================================================
+Copyright 2010 James Daniels. See LICENSE for details.
+
+More info at: http://www.haveamint.com/
